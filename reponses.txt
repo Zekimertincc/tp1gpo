@@ -1,2 +1,4 @@
 1) git status montre les fichiers modifiés/non trackés.
 7) git show = détails commit, git status = état projet, git diff = changements non ajoutés, git log = liste commits.
+8) git status montre les fichiers ajoutés.
+9) git reset enlève un fichier du staging area sans le supprimer.
