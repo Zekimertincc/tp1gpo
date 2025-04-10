@@ -3,3 +3,6 @@
 8) git status montre les fichiers ajoutés.
 9) git reset enlève un fichier du staging area sans le supprimer.
 10) git log montre que brouillon.txt n'est pas commité.
+13) git clone URL
+14) ls + git log
+15) git diff HEAD^ HEAD pour voir les modifs.
